@@ -118,3 +118,5 @@ This feature ensures gig workers are protected not only from environmental disru
 The SafeGig AI platform can scale across India to protect millions of gig workers and integrate with multiple delivery platforms such as Swiggy, Zomato, Amazon, and Zepto.
 
 In the future, the system can incorporate advanced AI analytics, predictive risk modeling, and real-time platform integrations to create a robust safety net for the gig economy.
+
+

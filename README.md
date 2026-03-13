@@ -119,4 +119,6 @@ The SafeGig AI platform can scale across India to protect millions of gig worker
 
 In the future, the system can incorporate advanced AI analytics, predictive risk modeling, and real-time platform integrations to create a robust safety net for the gig economy.
 
+## System Architecture Diagram
 
+![Architecture Diagram](architecture.png.png)
